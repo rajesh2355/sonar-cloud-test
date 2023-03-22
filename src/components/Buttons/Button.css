@@ -1,0 +1,33 @@
+
+button {
+    color: "#2CE080";
+    border: "1px solid #DCE0DF";
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  button.hove{
+    background-color: "#2CE080";
+    color: "black";
+    border: "1px solid #2CE080";
+  }
+
+.primary{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.secondary{
+    background-color: gray;
+    color: aliceblue;
+}
+
+.warning{
+    background-color: red;
+    color: aliceblue;
+}
+
+.success{
+    background-color: green;
+    color: aliceblue;
+}
